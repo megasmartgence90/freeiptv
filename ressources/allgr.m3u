@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" tvg-id="Fox.tr" group-title="|TR|🇹🇷 ULUSAL GENEL",NOW
-https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=L2-MQbSH42DVI5ybYoXl-w&e=1735875951
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" tvg-id="Fox.tr" group-title="|TR|🇹🇷 ULUSAL GENEL",NOW
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=8800000,AVERAGE-BANDWIDTH=8976000,RESOLUTION=1920x1080,CODECS="avc1.640028,mp4a.40.2",FRAME-RATE=25,SUBTITLES="subs"
 https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=L2-MQbSH42DVI5ybYoXl-w&e=1735875951
